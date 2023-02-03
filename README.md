@@ -2,7 +2,7 @@
 
 From Vancouver, BC, I am currently a CS student at the University of Alberta
 
-
+## Contact
 <!--
 **ElwinCoding/ElwinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

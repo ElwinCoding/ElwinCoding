@@ -1,4 +1,7 @@
-### Hello there, my name is Elwin 👋
+### Hello there, I'm Elwin 👋
+
+From Vancouver, BC, I am currently a CS student at the University of Alberta
+
 
 <!--
 **ElwinCoding/ElwinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

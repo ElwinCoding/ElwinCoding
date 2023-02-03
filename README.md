@@ -3,7 +3,7 @@
 From Vancouver, BC, I am currently a CS student at the University of Alberta
 
 ### Contact
-📫I can be reached at: elwin1@ualberta.ca
+📫 I can be reached at elwin1@ualberta.ca
 <!--
 **ElwinCoding/ElwinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hello there, I'm Elwin 👋
+### Hello there, my name is Elwin 👋
 
 From Vancouver, BC, I am currently a CS student at the University of Alberta
 

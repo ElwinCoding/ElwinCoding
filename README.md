@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 🎓 |I am a Computer Science student at the University of Alberta and I enjoy making projects to learn new tools |
-- 🧗 |I like to climb and bake in my spare time |
+- 🎓 I am a Computer Science student at the University of Alberta and I enjoy making projects to learn new tools 
+- 🧗 I like to climb and bake in my spare time 
 
 ### Contact
 📫 I can be reached at <elwin1@ualberta.ca>

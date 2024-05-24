@@ -1,9 +1,12 @@
 ### Hello there, my name is Elwin 👋
 
-From Vancouver, BC, I am currently a CS student at the University of Alberta
+## About Me
+
+- 🎓 I am a Computer Science student at the University of Alberta and I enjoy making projects in my spare time!
+- 🧗‍♂️ I like to bake and climb in my spare time
 
 ### Contact
-📫 I can be reached at elwin1@ualberta.ca
+📫 I can be reached at <elwin1@ualberta.ca>
 <!--
 **ElwinCoding/ElwinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,8 @@
 ## About Me
 
 - 🎓 I am a Computer Science student at the University of Alberta and I enjoy making projects to learn new tools 
-- 🧗 I like to climb and bake in my spare time 
-Come visit my website! https://elwincoding.github.io/  
+- 🧗 I like to climb and bake in my spare time  
+- Come visit my website! https://elwincoding.github.io/  
 ### Contact
 📫 I can be reached at <elwin1@ualberta.ca>
 <!--

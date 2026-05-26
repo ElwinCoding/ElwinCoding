@@ -6,7 +6,7 @@
 - 🧗 I like to climb and bake in my spare time  
 - Come visit my [website!](https://elwincoding.github.io/)   
 ### Contact
-📫 I can be reached at <elwin1@ualberta.ca>
+📫 I can be reached at <shen.elwin@gmail.com>
 <!--
 **ElwinCoding/ElwinCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
